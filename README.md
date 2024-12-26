@@ -1,5 +1,5 @@
 # RPM
-This repository contains implementations of various rock physics models (KT, SCA, DEM and SCA-DEM) for predicting elastic moduli, performing pore aspect ratio inversion, and conducting sensitivity analyses. The models included are:
+This repository contains implementations of various rock physics models (KT, SCA, DEM and SCA-DEM) for predicting elastic moduli, performing pore aspect ratio inversion, and conducting sensitivity analyses.
 Min_est.ipynb contain code for estimating matrix moduli and data filtering using Hashin-Shrikmen bounds.
 Alp.ipynb contain code to find a single pore aspect ratio for modeling elastic moduli for well.
 RPM_com.ipynb contain code of Rock Physcis Models comparison.
