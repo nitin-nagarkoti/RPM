@@ -11,7 +11,6 @@ DEM (Differential Effective Medium)
 
 SCA-DEM Hybrid Model
 
-Repository Overview
 The repository is organized into the following Python notebooks, each focusing on a specific functionality:
 
 Min_est.ipynb:
