@@ -1,11 +1,14 @@
 # RPM
 
-Rock Physics Models (RPM)
+Rock Physics Models (RPM):
 This repository contains implementations of various rock physics models for predicting elastic moduli, performing pore aspect ratio inversion, and conducting sensitivity analyses. The models included are:
 
 KT (Kuster-Toksoz Model)
+
 SCA (Self-Consistent Approximation)
+
 DEM (Differential Effective Medium)
+
 SCA-DEM Hybrid Model
 
 Repository Overview
