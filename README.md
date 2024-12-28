@@ -16,7 +16,7 @@ The repository is organized into the following Python notebooks, each focusing o
 Min_est.ipynb:
 Estimation of matrix elastic moduli and data filtering based on Hashin-Shtrikman bounds.
 
-Alp.ipynb:
+Alpha.ipynb:
 Computation of a single pore aspect ratio for elastic moduli modeling in wells.
 
 RPM_com.ipynb:
